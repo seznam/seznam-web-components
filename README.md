@@ -12,3 +12,7 @@ bower install jmeno-komponenty [--save]
   * Repozitář: https://github.com/seznam/szn-captcha
   * Ukázka: http://seznam-web-components.github.io/szn-captcha.html
  
+### &lt;szn-map&gt;
+  * Volitelně interaktivní mapa s konfigurovatelným podkladem a souřadnicemi
+  * Repozitář: https://github.com/seznam/szn-map
+  * Ukázka: http://seznam-web-components.github.io/szn-map.html
