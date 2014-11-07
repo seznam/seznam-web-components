@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<script src="bower_components/webcomponentsjs/webcomponents.js"></script> 
+		<link rel="import" href="bower_components/szn-map/szn-map.html" />
+		<title>&lt;szn-map&gt; demo</title>
+
+		<style>
+			szn-map {
+				width: 640px;
+				height: 480px;
+				float: left;
+			}
+		</style>
+	</head>
+
+	<body>
+		<!-- Zakladni mapa -->
+		<szn-map></szn-map>
+
+		<!-- Ukazka dalsich atributu -->
+		<szn-map controls layers="turist trail" zoom="13" lon="14.1275722" lat="49.3802705"></szn-map>
+	</body>
+</html>

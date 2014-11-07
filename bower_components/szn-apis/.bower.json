@@ -1,0 +1,35 @@
+{
+  "name": "szn-apis",
+  "homepage": "https://github.com/seznam/szn-apis",
+  "authors": [
+    "Ondrej Zara <ondrej.zara@firma.seznam.cz>"
+  ],
+  "description": "JS API web components",
+  "keywords": [
+    "web",
+    "components",
+    "seznam",
+    "js",
+    "api"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "*"
+  },
+  "_release": "3787b3b220",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "3787b3b220e7884a6707b63a735b92efe1e794d2"
+  },
+  "_source": "git://github.com/seznam/szn-apis.git",
+  "_target": "*",
+  "_originalSource": "szn-apis"
+}
