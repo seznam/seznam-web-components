@@ -15,4 +15,4 @@ bower install jmeno-komponenty [--save]
 ### &lt;szn-map&gt;
   * Volitelně interaktivní mapa s konfigurovatelným podkladem a souřadnicemi
   * Repozitář: https://github.com/seznam/szn-map
-  * Ukázka: http://seznam-web-components.github.io/szn-map.html
+  * Ukázka: http://seznam.github.io/seznam-web-components/szn-map.html
